@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS cruddb (
+  id VARCHAR(10) NOT NULL,
+  author VARCHAR(100) NOT NULL,
+  publisher VARCHAR(100) NOT NULL,
+  genre VARCHAR(100) NOT NULL
+
+);
